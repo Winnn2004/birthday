@@ -36,7 +36,8 @@ export default function Hero({ guest, onChangeGuest }) {
       </h1>
 
       <p className="hero-welcome">
-        Ban tổ chức đã ghi nhận sự có mặt của bạn. Hãy chuẩn bị năng lượng tốt nhất để chung vui một đêm tiệc đáng nhớ!
+      Tui đã ghi nhận sự có mặt của bạn.
+      Hãy chuẩn bị năng lượng tốt nhất để hết mình đêm đó nha.
       </p>
     </section>
   );
