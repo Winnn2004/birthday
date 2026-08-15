@@ -113,7 +113,7 @@ export default function EntryGate({ onAdmit }) {
 
           <div className="form-group">
             <label className="dark-label" htmlFor="gate-nickname">
-              Biệt danh
+              Chủ tiệc gọi bạn là gì?
             </label>
             <input
               id="gate-nickname"
